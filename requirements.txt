@@ -1,0 +1,2 @@
+nltk
+psycopg2
